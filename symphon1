@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Simple web page Template</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <nav class="navbar background">
+        <div class="logo">
+            <img src=
+C:\Users\abc\Desktop\oreo.png
+width="30" height="30">
+        </div>
+        <li><a href="#home" onmouseover="this.style.color='grey'" onmouseout="this.style.color='white'">ORION</a></li>
+        <li><a href="#home" onmouseover="this.style.color='grey'" onmouseout="this.style.color='white'">Learn</a></li>
+        <li><a href="#about" onmouseover="this.style.color='grey'" onmouseout="this.style.color='white'">Pratice</a></li>
+        <li><a href="#contact" onmouseover="this.style.color='grey'" onmouseout="this.style.color='white'">Assesments</a></li>
+      
+    </ul>
+   
+       
+               
+        <button class="btn btn-sm">Login</button>
+        <button class="btn btn-sm">Sign-up</button>
+        </div>
+    </nav>
+
+    <section class="firstsection">
+        <div class="box-main">
+            <div class="firstHalf">
+                <h1 class="text-big" 
+                    id="web">The only learning platform that helps you score better marks and support self-growth.
+                  </h1>
+                <p class="text-small">
+                    Study with a self-aware adaptive system, understand, remember, and master subjects without worry, and know your academic strengths and weaknesses to truly succeed.
+                </p>
+
+
+            </div>
+        </div>
+    </section>
+
+    <h2></h2>
+    
+    <!-- Adding an image -->
+    
+    
+    <p></p>
+    <section class="secondsection">
+        <div class="box-main">
+            <div class="firstHalf">
+                <h1 class="text-big" 
+                    id="program">
+                   Are you really Motivated to study?
+                </h1>
+                <p class="text-small">
+                    Answer these few Questions to 
+                    know your Motivation Level & Find How You c
+                    an work on improving or Maintaining it<br><br>
+                    <img src="C:\Users\abc\Desktop\self.png" width="100" height="80"> <br>
+
+
+                                                 
+                               
+                    
+                        QUESTION 1 OF 5. <br>
+                           <br> Do you work hard but still feel disappointed with your grades?
+                            <button class="btn btn-sm">Yes</button>
+                        <button class="btn btn-sm">No</button>
+                        
+                       
+                        
+                    </section>
+                </p>
+            </div>
+        </div>
+    </section>
+
+
+   
+
+
+
+
+
+    <section class="section">
+        <div class="paras">
+            <h1 class="sectionTag text-big">Traditional Ways of Studying, quite Frustrating</h1>
+            <p class="sectionSubTag text-small">
+                Challenges of traditional studying <br>
+1. Monotony: Repetitive and unengaging study methods can lead to boredom.<br>
+2. Passive Learning: Methods like rote memorization often lead to shallow understanding. <br>
+3. Limited Interaction: Studying alone can limit discussion and different perspectives. <br>
+4. Time Management: It can be difficult to balance study time with other responsibilities.<br>
+5. Lack of Resources: Sometimes traditional methods do not provide enough variety in materials and perspectives.<br>
+            </p>
+        </div>
+    </section>
+
+
+    <section class="section"></section>
+        <div class="paras">
+            <h1 class="sectionTag text-big">Discover New Online Stress-free learning Solutions with ORION</h1>
+            <p class="sectionSubTag text-small">
+               
+Benefits of Hyggex Learning Solutions<br>
+Reduced Stress: The focus on enjoyable and engaging methods help reduce the stress commonly associated with traditional learning.<br>
+Enhanced Engagement: Interactive and varied content keeps learners interested and motivated.<br>
+Better Retention: Active learning strategies improve retention and understanding of materials.<br>
+Community Support: Virtual study groups and forums provide a sense of community and support.<br>
+Adaptability: The ability to learn at one's own pace and adapt the learning process to personal preferences.<br>
+            </p>
+        </div>
+    </section>
+
+
+
+    <section class="section"></section>
+        <div class="paras">
+            <h1 class="sectionTag text-big">Problem in Creating and Following Time Table</h1>
+            <p class="sectionSubTag text-small">
+               
+                Overwhelming Schedule<br>
+                Problem: Trying to fit too many tasks into a limited time can be overwhelming. Solution: Prioritize tasks and break them into smaller, manageable chunks. Use a planner or app to spread tasks out over a realistic timeline. <br>
+                <br>
+                Lack of Flexibility<br>
+                Problem: Rigid schedules can lead to stress and frustration when unexpected events occur. Solution: Build in buffer times for breaks and unexpected delays. Allow some flexibility in your schedule to adapt to changes.<br>
+                <br>
+                Procrastination: <br>
+                Problem: Delaying tasks can disrupt your timetable and cause stress. Solution: Use techniques like the Pomodoro Technique (25 minutes of focused work followed by a 5-minute break) to maintain focus and prevent procrastination.<br>
+            </p>
+        </div>
+    </section>
+
+
+
+    <footer class="background">
+        <p class="text-footer">
+            ©2023 rights are reserved
+        </p>
+    </footer>
+</body>
+
+</html>
